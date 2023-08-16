@@ -1,0 +1,4 @@
+link=raw.githubusercontent.com/blacksmiff/SkylineMath200/main/Diamonds%20(1).csv
+
+df=pd.read_csv(link)
+df
